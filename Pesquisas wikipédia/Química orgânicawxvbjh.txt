@@ -1,0 +1,288 @@
+A química orgânica se dedica ao estudo dos compostos de carbono , também conhecidos como compostos orgânicos: suas propriedades físicas, composição, reações e síntese. O carbono é um elemento que forma quatro ligações químicas estáveis com a maioria dos elementos da tabela periódica, sendo que os mais comuns são o hidrogênio, oxigênio, nitrogênio, enxofre, fósforo e halogênios (família 17 da tabela periódica). 
+O objeto de estudo inicial foi proposto em 1777 pelo químico sueco Torbern Olof Bergman, quando a química orgânica foi definida como o ramo da química voltado ao estudo dos compostos extraídos dos organismos vivos, contrastando com a química inorgânica, que tratava dos compostos existentes no então chamado "reino mineral". Em 1807, foi formulada a teoria da força vital por Jöns Jacob Berzelius, propondo que os compostos orgânicos precisavam de uma força maior — a vida — para serem sintetizados, e considerava impossível a síntese artificial desses compostos.No entanto, em 1828, Friedrich Wöhler, discípulo de Berzelius produziu a ureia, composto existente na urina animal, a partir do aquecimento de cianato de amônio. Wöhler demonstrou ser possível a síntese de um composto orgânico, a ureia, a partir de um composto inorgânico. A descoberta é  conhecida como síntese de Wöhler o que refutou a teoria da força vital. Em seguida, Pierre Eugene Marcellin Berthelot realizou uma série de experiências e sintetizou o acetileno em 1862, sintetizou o benzeno a partir do aquecimento do acetileno (etino) em 1866, sepultando de vez a teoria da força vital. Os compostos orgânicos poderiam ser sintetizados em laboratório, e a química orgânica ganhou impulso.
+
+O conceito de química orgânica foi reformulado pelo químico Friedrich August Kekulé propôs, em 1858, a definição aceita atualmente:
+"Química orgânica é o ramo da química que estuda os compostos do carbono."
+
+Todos os compostos orgânicos contêm carbono, contudo, nem todo o composto que contém carbono é considerado como orgânico, como é o caso do dióxido de carbono, o ácido carbônico, a grafite, etc.. 
+
+
+== História ==
+
+
+=== Século XVIII ===
+
+No século XVIII, o químico Carl Wilhelm Scheele isolou compostos orgânicos a partir de seres vivos, como o ácido tartárico (C4H6O6) da uva, ácido cítrico (C6H8O7) do limão, ácido lático (C3H6O3) do leite, glicerina (C3H8O3) da gordura, e ureia (CH4N2O) da urina. Devido a sua origem comum, de organismos vivos, Torbern Bergman definiu, em 1777, que a química dos compostos orgânicos (isto é, a Química Orgânica) corresponde à química dos compostos existentes nos organismos vivos, vegetais e animais, enquanto a química inorgânica seria a química dos compostos existentes em minerais. Na mesma época da proposta de Bergman, Antoine Lavoisier analisou vários compostos orgânicos e constatou que todos continham o elemento químico carbono.Em 1807, Jöns Jacob Berzelius propôs que somente os seres vivos seriam dotados de uma “força vital” capaz de produzir os compostos orgânicos, implicando na impossibilidade da síntese de substâncias orgânicas de forma artificial, ou seja, preparadas em um laboratório ou em numa indústria. Este conceito foi denominado vitalismo. Tais crenças eram reforçadas pela complexidade da estrutura química dos compostos orgânicos, quando comparadas à dos compostos inorgânicos.
+
+
+=== Século XIX ===
+
+Durante a primeira metade do século XIX, contudo, os químicos descobriram que os compostos orgânicos poderiam ser sintetizados em laboratório, contrariamente à proposta de Tobern Bergman. Por volta de 1816, Michel Chevreul preparou sabonetes feitos usando gorduras e álcalis. Em 1828, Friedrich Wöhler produziu a ureia, um componente da urina, a partir do sal inorgânico cianato de amônio (NH4CNO), sendo essa preparação atualmente chamada de síntese de Wöhler.Nos anos seguintes à síntese de Wöhler, muitas outras substâncias orgânicas foram sintetizadas. Em 1845, Adolph Kolbe realizou a primeira síntese de um composto orgânico, o ácido acético, a partir de seus elementos componentes. Onze anos depois, o químico inglês William Perkin, ao tentar fabricar o quinino, fabricou acidentalmente o corante orgânico conhecido como mauveína. Devido ao grande sucesso financeiro dessa descoberta, o interesse nos estudos em química orgânica aumentou significantemente, com Perkin servindo de exemplo para a indústria química na Inglaterra. Na Alemanha, o trabalho de August Wilhelm von Hofmann, antigo professor de Perkin, também possibilitou desenvolvimento da indústria química alemã no final do século XIX, graças às descobertas de vários corantes: a magenta, em 1858; a alizarina, em 1869; e o índigo, em 1880. Esses corantes tornaram-se úteis para a indústria têxtil, com a possibilidade de novas cores serem usadas em tecidos e também a produção mais barata de cores já existentes. Além disso, foram importantes para o desenvolvimento de técnicas analíticas para a biologia, através da coloração e do estudo de micro-organismos ao microscópio. Com o advento de tais descobertas, a partir da segunda metade do século XIX, os químicos passaram a acreditar na possibilidade de síntese de qualquer substância química, orgânica ou inorgânica.
+
+O conceito de estrutura química foi crucial para o desenvolvimento de teorias em química orgânica, trabalhadas de forma simultânea e independente por Friedrich August Kekulé e Archibald Scott Couper em 1858. Ambos sugeriram que o átomos de carbono é tetravalente ( faz quatro ligações químicas) e se ligam um ao outro para formar uma cadeia de átomos de carbono. 
+A história da química orgânica continuou com a descoberta do petróleo e a sua separação em frações de acordo com a diferença no ponto de ebulição de seus componentes. Já a indústria farmacêutica teve seu início na última década do século XIX, com a fabricação do ácido acetilsalicílico (mais conhecido como aspirina) pela Bayer, na Alemanha.Embora os primeiros exemplos de reações orgânicas e aplicações tenham sido frequentemente fortuitos, a segunda metade do século XIX testemunhou estudos altamente sistemáticos de compostos orgânicos. A síntese total de compostos naturais começou com ureia, e a complexidade aumentou com a obtenção da glicose e o terpineol.
+
+
+=== Século XX ===
+Na primeira metade do século XX, houve um grande desenvolvimento da indústria química orgânica nos Estados Unidos, com a descoberta, por exemplo, de diversos plásticos, como o raiom, o náilon, o teflon e o poliéster. Esta época também foi marcada pela substituição do carvão pelo petróleo como principal fonte de matéria-prima para a indústria química orgânica. Devido a isso, surgiu uma gigantesca indústria petroquímica, tendo os materiais plásticos como produto principal.Em 1907, cânfora obtida por síntese total foi comercializada pela primeira vez por Gustaf Komppa. Os polímeros e as enzimas foram reconhecidos como grandes moléculas orgânicas, e foi mostrado que o petróleo possuía origem biológica. A  descoberta dos mecanismos das reações orgânicas e o desenvolvimento de métodos sintéticos permitiu a síntese de moléculas complexas, como a síntese total da vitamina B12 , taxol e  palitoxina. 
+
+
+=== Século XXI ===
+A Química orgânica se estabelece cientificamente e suas tecnologias derivadas são de grande importância para a qualidade de vida e para a riqueza das nações: síntese de fármacos, polímeros, fertilizantes, qualidade de água e alimentos são alguns exemplos da relevância da Química orgânica nos dias atuais. A pesquisa abriu novos horizontes para as ciências da vida, produtos naturais, novos materiais e nanotecnologia e permanece ativa na síntese de novos compostos, descoberta de novas reações químicas e determinação de propriedades de compostos orgânicos e mecanismos de reações. 
+
+
+== Princípios ==
+
+
+=== Características do carbono ===
+
+O átomo de carbono apresenta certas particularidades que o torna diferente dos demais elementos químicos. Esse fato foi percebido na metade do século XIX e possibilitou uma melhor compreensão da estrutura das substâncias orgânicas:
+
+
+==== Tetravalência do Carbono ====
+A configuração eletrônica do elemento carbono é 1s2 2s2 2p2 no seu estado fundamental, com dois elétrons na camada K e quatro elétrons na camada L . Os quatro elétrons em sua última camada eletrônica podem ser compartilhados com outros átomos através da formação de quatro ligações covalentes. A tetravalência do carbono foi reconhecida já em 1858 por Kekulé (denominado primeiro postulado de Kekulé).
+O modelo da teoria de ligação de valência (TLV) usa o conceito de hibridização entre os orbitais s e p para explicar a formação das quatro ligações químicas, considerando a soma dos orbitais, o que resulta em até quatro orbitais híbridos sp3. O modelo da teoria do orbital molecular (TOM) não requer o uso do conceito de hibridização e usa o método de combinação linear de orbitais atômicos para a formação dos orbitais moleculares.
+
+
+==== Ligações múltiplas ====
+Um átomo de carbono pode estabelecer uma, duas ou até três ligações químicas com um segundo átomo, formando, respectivamente, uma ligação simples, uma ligação dupla ou uma ligação tripla.Existem quatro possibilidades de como o carbono pode se ligar:
+
+quatro ligações simples, com quatro átomos diferentes conectados em estrutura tetraédrica (hibridização sp3);
+uma ligação dupla e duas simples, com três átomos diferentes em estrutura trigonal planar  (hibridização sp2);
+duas ligações duplas, com dois átomos diferentes em estrutura linear  (hibridização sp);
+uma ligação tripla e uma simples, com dois átomos diferentes em estrutura linear (hibridização sp).Para explicar as diferentes disposições espaciais do carbono e de seus átomos ligantes de uma forma simples, existe a teoria da repulsão dos pares eletrônicos da camada de valência (conhecida como teoria VSEPR, do inglês valence shell electron pair repulsion), parte do campo da estereoquímica. O princípio básico da teoria VSEPR é a minimização  da repulsão entre os elétrons dos pares eletrônicos ligantes (que se ligam aos outros átomos) e os não-ligantes (pares eletrônicos livres) que se posicionam com o máximo afastamento angular possível. Esta teoria explica os ângulos típicos em moléculas orgânicas. No metano o ângulo HCH é de 109o28' (109,5o), no eteno os ângulos interatômicos são próximos a 120o e no etino os ângulos são de 180o.  metano.
+
+		
+		
+
+
+==== Diversidade de elementos ligantes ====
+Devido à sua localização na tabela periódica (grupo 14), o carbono possui eletronegatividade de 2,5 (carbono sp3), intermediária entre os elementos eletropositivos e os elementos eletronegativos, permitindo com que ele faça ligações com os dois tipos de elementos químicos, sendo que os mais importantes são o hidrogênio (
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle {\ce {H}}}
+  )  (exceções incluem 
+  
+    
+      
+        
+          
+            
+              CCl
+              
+                4
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{CCl4}}}}
+  , 
+  
+    
+      
+        
+          
+            
+              C
+              
+                2
+              
+              
+                
+              
+            
+            
+              Cl
+              
+                6
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{C2Cl6}}}}
+   e 
+  
+    
+      
+        
+          
+            
+              CCl
+              
+                2
+              
+              
+                
+              
+            
+            
+              F
+              
+                2
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{CCl2F2}}}}
+  ), que apresenta a possibilidade de fazer apenas uma ligação química e não resulta na continuidade da cadeia,  o oxigênio (
+  
+    
+      
+        
+          O
+        
+      
+    
+    {\displaystyle {\ce {O}}}
+  ), que pode fazer duas ligações simples ou uma ligação dupla e o nitrogênio (
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle {\ce {N}}}
+  ), que pode fazer até três ligações químicas. Por isso, carbono, hidrogênio, oxigênio e nitrogênio são por vezes referidos como elementos organógenos (elementos formadores de compostos orgânicos, etimologicamente).É também comum encontrar outros elementos que se liguem ao carbono: não-metais como o enxofre (
+  
+    
+      
+        
+          S
+        
+      
+    
+    {\displaystyle {\ce {S}}}
+  ), o fósforo (
+  
+    
+      
+        
+          P
+        
+      
+    
+    {\displaystyle {\ce {P}}}
+  ); os halogênios, isto é, flúor (
+  
+    
+      
+        
+          F
+        
+      
+    
+    {\displaystyle {\ce {F}}}
+  ), cloro (
+  
+    
+      
+        
+          Cl
+        
+      
+    
+    {\displaystyle {\ce {Cl}}}
+  ), bromo (
+  
+    
+      
+        
+          Br
+        
+      
+    
+    {\displaystyle {\ce {Br}}}
+  ) e iodo (
+  
+    
+      
+        
+          I
+        
+      
+    
+    {\displaystyle {\ce {I}}}
+  ); e certos metais, como o ferro (
+  
+    
+      
+        
+          Fe
+        
+      
+    
+    {\displaystyle {\ce {Fe}}}
+  ) e o magnésio (
+  
+    
+      
+        
+          Mg
+        
+      
+    
+    {\displaystyle {\ce {Mg}}}
+  ).
+
+		
+		
+		
+		
+		
+		
+		
+
+
+==== Formação de cadeias ====
+Átomos de carbono podem se ligar entre si ou a outros átomos formando encadeamentos ou cadeias, curtas ou longas, e com grande variedade de disposições (denomina-se essa característica como terceiro postulado de Kekulé). Essas cadeias constituem o "esqueleto" das moléculas orgânicas.Existem outros elementos químicos que conseguem formar cadeias, como o enxofre e o fósforo. Entretanto, nenhum elemento químico apresenta a capacidade de formar cadeias tão longas, variadas e estáveis como o carbono. A capacidade de formar cadeias aliada às características anteriormente descritas explicam a razão pela qual o carbono é capaz de formar um enorme número de compostos químicos.
+
+
+== Funções orgânicas ==
+
+O termo função orgânica designa um pequeno grupo de átomos em uma molécula orgânica ligado de uma forma específica e agregar as moléculas com estes grupos em comum facilita a compreensão e o estudo de suas propriedades. Este grupo de átomos acrescenta certas características que contribuem para as propriedades físicas e químicas da molécula. A característica da função álcool é o grupo -OH ligado a um carbono saturado. Por exemplo, os álcoois (ex: CH3OH -metanol- e CH3CH2OH -etanol-) podem atuar como ácidos ou como bases fracos; apresentam ponto de fusão e ebulição relativamente altos, são passíveis de sofrer reações de substituição do grupo OH por outros grupos de átomos e reagem com brometos de alquila em condições apropriadas para formar éteres. A presença de funções orgânicas é indicada através da nomenclatura dos compostos orgânicos. 
+
+Assim como na química inorgânica existem as funções inorgânicas (ácidos, bases, sais e óxidos), na química orgânica existem os grupos funcionais, arranjos específicos de átomos que comunicam à molécula,  características químicas e físicas específicas, como ligações de hidrogênio intermoleculares, acidez, absorção de cor, reações de oxidação e redução, rigidez conformacional. Abaixo estão algumas das mais comuns:
+Os hidrocarbonetos constituem a função mais simples da química orgânica, por serem compostos apenas por carbono e hidrogênio. Uma grande importância é o fato de que servem como "esqueleto" para as demais funções orgânicas. Além disso, do ponto de vista econômico, os hidrocarbonetos são importantes por serem os principais formadores do petróleo, do gás natural e dos destilados do xisto betuminoso e do carvão mineral. Ademais, servem de ponto de partida para a obtenção industrial de plásticos, corantes, explosivos, inseticidas, dentre outros. Existem ainda denominações mais específicas dentro da classe de hidrocarbonetos, como os alcanos, alcenos, alcinos, alcadienos, alceninos, cicloalcanos e cicloalcenos.
+
+
+== Sub-divisões da Química orgânica ==
+A abertura de diferentes campos na Química orgânica resultou em sub-divisões, de acordo com o objetivo:
+Síntese orgânica: dedica-se aos métodos para a síntese de moléculas orgânicas, na parte de síntese total de compostos complexos e no desenvolvimento de métodos de síntese;
+Físico-química orgânica: dedica-se à relação das propriedades de moléculas orgânicas e misturas e relação com a estrutura, bem como à investigação de mecanismos de reações orgânicas;
+Análise orgânica: são os métodos para a caracterização de compostos orgânicos e misturas, envolve a caracterização via úmida, usando testes específicos e a caracterização espectroscópica, através de métodos como Ressonância Magnética Nuclear, espectroscopia de infravermelho, espectrometria de massas, espectroscopia de ultravioleta, Raman,  difração de raio-X, etc.;
+Polímeros: envolve os métodos para a síntese e caracterização de polímeros orgânicos;
+Química bio-orgânica: estudo de processo biológicos que utiliza os métodos da química, também envolve a Química medicinal e a Química de produtos naturais.
+
+
+== Reações em química orgânica ==
+As reações químicas envolvem o reordenamento de átomos e elétrons, representada de forma geral como a transformação de reagentes em produtos. A quebra e reformulação de ligações passa por um aumento de energia e o máximo energético corresponde ao estado de transição (ou complexo ativado) e a descrição dos eventos que resultam na transformação química é o mecanismo de reação.
+As reações orgânicas podem ser divididas em quatro grandes grupos: 
+
+reações de substituição;
+reações de adição;
+reações de eliminação;
+reações de rearranjos.
+As reações orgânicas muitas vezes recebem o nome dos cientistas que descobriram ou sistematizaram o estudo destas reações, enquanto outras são conhecidas pelo produto formado.

@@ -1,0 +1,147 @@
+Telefone celular (português brasileiro) ou telemóvel (português europeu) é um aparelho de comunicação por ondas eletromagnéticas que permite a transmissão bidirecional de voz e dados utilizáveis em uma área geográfica que se encontra dividida em células (de onde provém a nomenclatura celular), cada uma delas servida por um transmissor/receptor. A invenção do telefone celular ocorreu em 1947 pelo laboratório Bell, nos Estados Unidos.Há diferentes tecnologias para a difusão das ondas eletromagnéticas nos telefones móveis, baseadas na compressão das informações ou na sua distribuição: na primeira geração (1G) (a analógica, desenvolvida no início da década de 1980), com os sistemas NMT e AMPS; na segunda geração (2G) (digital, desenvolvida no final da década de 1980 e início da década de 1990): GSM, CDMA e TDMA; na  segunda geração e meia (2,5G) (uma evolução à 2G, com melhorias significativas em capacidade de transmissão de dados e na adoção da tecnologia de pacotes e não mais comutação de circuitos), presente nas tecnologias GPRS, EDGE, HSCSD e 1xRTT; na terceira geração (3G) (digital, com mais recursos, em desenvolvimento desde o final dos anos 1990), como UMTS e EVDO; na terceira geração e meia (3,5G), como HSDPA, HSPA e HSUPA. Já em desenvolvimento a 4G (quarta geração).
+Aparelhos análogos baseados no rádio já eram utilizados pelos autoridades policiais de Chicago na década de trinta, entre outras tecnologias.
+
+
+== Designação ==
+Telefone móvel celular  ou simplesmente "celular" (plural celulares) é a designação utilizada no Brasil, e este termo deriva da topologia de uma rede de telefonia móvel: cada célula é o raio de ação de cada uma das estações base (antenas de emissão/recepção) do sistema, e o fato de elas estarem contíguas faz com que a representação da rede se assemelhe a uma colmeia.
+Em Portugal, esses equipamentos são chamados telemóveis, por aglutinação de "telefone + móvel". O termo apareceu quando o sistema de telefonia móvel apareceu em Portugal, nos finais dos anos 1980, pela mão do consórcio  CTT / TLP (operador único de telecomunicações, na altura), que batizou este serviço (assente na tecnologia analógica AMPS) de "Serviço Telemóvel". O termo ganhou popularidade, em detrimento de "telefone celular", quando a segunda geração apareceu em Portugal, em 1992. Isto porque o consórcio CTT/TLP decidiu autonomizar os serviços de telefonia móvel, criando a TMN - Telecomunicações Móveis Nacionais S.A., que iria utilizar e o termo "telemóvel" para designar os equipamentos e não o serviço.
+
+
+== História ==
+
+Os precursores dos celulares são os rádios comunicadores usados em aviões e barcos, os primeiros protótipos de telefones móveis foram criados no Bell Labs em 1947, a Ericsson chegou a desenvolver um modelo em 1956.
+Na União Soviética, o primeiro celular foi desenvolvido em 1955 por Leonid Kupriyanovich. Ele pesava 1,2 quilogramas e tinha alcance de 1,5 quilômetro. Kupriyanovich aprimorou esse modelo em 1961, com um dispositivo ainda menor, pesando 70 gramas, que cabia na palma da mão, e tinha um alcance de mais de 30 quilômetros. Em 1958, foi desenvolvido, na União Soviética, o serviço Altay, que era usado em carros e chegou a estar presente em até 30 cidades do país. Em 1965, a empresa búlgara Radioelektronika também apresentou um sistema de base que podia usar até 15 telefones.
+Em 3 de abril de 1973, liderado por Martin Cooper, a Motorola apresentou e fez a primeira ligação de um telefone celular, com o DynaTAC 8000, que só chegou a ser comercializado em 1983. Este celular marcou a primeira geração.
+Em 1991, houve a primeira transmissão do novo formato digital de sinal digital de celular, o 2G. Além de conversas, o novo padrão também possibilitava troca de mensagens através do serviço SMS. Em 1993, foi lançado o IBM Simon, que reunia recursos de celulares e PDAs com tela sensível ao toque, e que é considerado o primeiro smartphone. O novo padrão variado do 2G (chamado de 2.5G) adicionou o acesso à internet por telefone celular pelo padrão GPRS. Em 1998, foram disponibilizados os primeiros conteúdos disponíveis para download na Finlândia e, em 1999, o primeiro serviço completo de acesso à internet no Japão.
+Devido à alta demanda por serviços de internet, foi lançada em maio de 2001 no Japão, a primeira rede 3G. O primeiro aparelho foi lançado em outubro do mesmo ano. A primeira década do século XXI viu um rápido crescimento da popularização dos celulares.
+No ano de 2007, a Apple lança o iPhone, o seu primeiro smartphone, em um formato que mudou a aparência da maioria dos telefones celulares, sendo o primeiro aparelho a apresentar tela multitoque. Tinha, como principal característica, a ausência de teclados numéricos físicos, deixando-os para serem gerados por software. No ano de 2008, a Google apresenta o Android, seu sistema operacional para smartphone, que logo se popularizou e é, até o momento, o mais utilizado.
+
+
+== No Brasil ==
+
+A primeira rede de telefonia celular do Brasil foi lançada pela TELERJ, na cidade do Rio de Janeiro em 1990, seguido da cidade de Salvador. Já o estado de São Paulo, foi considerado o último grande mercado mundial a ser atendido pela telefonia celular, onde o serviço foi iniciado pela Telecomunicações de São Paulo (TELESP), somente em agosto de 1993.Segundo a União Internacional das Telecomunicações, o Brasil era o sexto maior mercado do mundo em telefonia celular no ano de 2010, com 202,94 milhões de aparelhos em uso. Em 2012, 247 milhões de linhas de telefones celulares ativas já existiam no Brasil, e em 2014, atingiu a marca de 280,7 milhões de linhas ativas.Mas a partir de 2015, o número de linhas ativas vem decaindo, com 229,2 milhões de assinantes/conexões no ano de 2018, sendo assim, o quinto país que mais utiliza telefones celulares no mundo, perdendo apenas para a China, Índia, Indonésia e Estados Unidos.
+
+
+=== Operadoras ===
+Sistema Telebrás
+Antes das empresas de telecomunicações serem privatizadas, o serviço de telefonia celular no Brasil era operado em cada estado por subsidiárias das estatais de telecomunicações do sistema Telebrás. As mais importantes eram:
+
+TELESP Celular
+TELERJ Celular
+TELEMIG Celular
+TELEBRASÍLIA CelularPrivatização e operadoras atuais
+Com a privatização em 1998, o Brasil foi dividido em dez regiões geográficas para atuação das empresas de telefonia celular. Posteriormente, ocorreram diversas fusões e aquisições, resultando na criação das quatro principais operadoras de celular do país:Vivo
+Teve origem em 2002 às empresas de telefone celular), na fusão de operadoras das Bandas A e B (áreas 1, 2, 3, 5, 6, 7, 8 e 9), com posterior aquisição de operadora da Banda A (área 4) e de licença na Banda E (área 10).
+Banda A - Áreas 1 e 2 - Telesp Celular (São Paulo)
+Banda A - Área 3 - Telefônica Celular (Rio de Janeiro e Espírito Santo)
+Banda A - Área 4 - Telemig Celular (Minas Gerais)
+Banda B - Área 5 - Global Telecom (Paraná e Santa Catarina)
+Banda A - Área 6 - Telefônica Celular (Rio Grande do Sul)
+Banda A - Área 7 - Centro-Oeste Celular (Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia e Tocantins)
+Banda B - Área 8 - Norte Brasil Telecom (Pará, Amazonas, Amapá, Maranhão e Roraima)
+Banda A - Área 9 - Telefônica Celular (Bahia e Sergipe)
+Banda E - Área 10 - já operando como Vivo (Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Piauí)Claro
+Subsidiária da América Móvil para o Brasil, teve origem em 2003, na fusão de operadoras da Banda B (áreas 1, 2, 3, 6, 7 e 10), e licenças adquiridas posteriormente nas Bandas D e E (áreas 4, 5, 8 e 9).
+Banda B - Área 1 - BCP Telecomunicações (área 11 - São Paulo)
+Banda B - Área 2 - TESS (áreas 12 à 19 - São Paulo)
+Banda B - Área 3 - Algar Telecom Leste (Rio de Janeiro e Espírito Santo)
+Banda E - Área 4 - já operando como Claro (Minas Gerais)
+Banda D - Área 5 - já operando como Claro (Paraná e Santa Catarina)
+Banda B - Área 6 - Claro Digital (Rio Grande do Sul)
+Banda B - Área 7 - Americel (Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia e Tocantins)
+Banda D - Área 8 - já operando como Claro (Pará, Amazonas, Amapá, Maranhão e Roraima)
+Banda E - Área 9 - já operando como Claro (Bahia e Sergipe)
+Banda B - Área 10 - BCP Telecomunicações (Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Piauí)Tim
+Teve origem em 2004, na fusão de operadoras das Bandas A e B (áreas 4, 5, 9 e 10), e licenças adquiridas posteriormente nas Bandas D e E (áreas 1, 2, 3, 6, 7 e 8).
+Banda D - Áreas 1 e 2 - já operando como Tim (São Paulo)
+Banda E - Área 3 - já operando como Tim (Rio de Janeiro e Espírito Santo)
+Banda B - Área 4 - Maxitel (Minas Gerais)
+Banda A - Área 5 - TIM Sul (Paraná e Santa Catarina)
+Banda D - Área 6 - já operando como Tim (Rio Grande do Sul)
+Banda D - Área 7 - já operando como Tim (Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia e Tocantins)
+Banda E - Área 8 - já operando como Tim (Pará, Amazonas, Amapá, Maranhão e Roraima)
+Banda B - Área 9 - Maxitel (Bahia e Sergipe)
+Banda A - Área 10 - TIM Nordeste (Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Piauí)Oi
+Teve origem na autorização que a Telemar adquiriu em 2001, para atuar na telefonia celular na Banda D (áreas 3, 4, 9 e 10), com posterior aquisição de operadoras das Bandas A e E (áreas 5, 6, 7 e 8) e de licenças na Banda E (áreas 1 e 2).
+Banda E - Áreas 1 e 2 - já operando como Oi (São Paulo)
+Banda D - Área 3 - já operando como Oi (Rio de Janeiro e Espírito Santo)
+Banda D - Área 4 - já operando como Oi (Minas Gerais)
+Banda E - Área 5 - Brasil Telecom Celular (Paraná e Santa Catarina)
+Banda E - Área 6 - Brasil Telecom Celular (Rio Grande do Sul)
+Banda E - Área 7 - Brasil Telecom Celular (Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia e Tocantins)
+Banda A - Área 8 - Amazônia Celular (Pará, Amazonas, Amapá, Maranhão e Roraima)
+Banda D - Área 9 - já operando como Oi (Bahia e Sergipe)
+Banda D - Área 10 - já operando como Oi (Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Piauí)
+
+
+== Em Portugal ==
+Em Portugal, durante o ano de 2004 a taxa de penetração dos telemóveis já ultrapassou os 100%, ou seja, existem mais equipamentos que habitantes portugueses. Devido a estes números, os operadores tentam fidelizar os seus clientes através de novos serviços, sobretudo de comunicação de dados, com destaque para o acesso móvel à Internet através de tecnologias de terceira geração (ex: UMTS, HSDPA).
+Em 2013, existiam em Portugal 16,8 milhões de cartões de telefone emitidos, dos quais 7,4 milhões pertenciam à TMN, 6,5 milhões à Vodafone e 2,4 milhões à Optimus. Estes resultados fizeram com que a TMN tivesse uma quota de mercado de 44,48%, a Vodafone cerca de 38% e a Optimus quase 15%.
+
+
+== No mundo ==
+
+
+== Utilidade ==
+O celular/telemóvel que quando lançado ainda na tecnologia analógica era somente usado para falar, já é usado para enviar SMS, tirar fotos, filmar, despertar, gravar lembretes, jogar e ouvir músicas, mas não para por aí, nos últimos anos, principalmente no Japão e na Europa, tem ganhado recursos surpreendentes até então não disponíveis para aparelhos portáteis, como GPS, videoconferências e instalação de programas variados, que vão desde ler e-book a usar remotamente um computador qualquer, quando devidamente configurado.
+
+
+=== Mensagens de texto ===
+
+Além de comunicação de voz, celulares também possuem recurso de mensagem de texto, os primeiros celulares a terem o recurso surgiram no início da década de 1990 através do protocolo SMS (Short Message Service), o protocolo de envio de mensagens com conteúdo multimídia foi introduzido no início da década de 2000 através do protocolo MMS (Multimedia Messaging Service). Tanto o SMS quanto o MMS dependem do suporte dos aparelhos quanto das operadoras, foi através da popularização dos serviços de mensagens de texto que os celulares com teclado no formato QWERTY se popularizaram. Mensagens de texto também podem ser trocadas através de softwares específicos para celulares que possuem acesso à internet.
+
+
+=== Personalização ===
+Juntamente com tecnologia digital, chegou além de qualidade e segurança, a possibilidade de personalizar os celulares/telemóveis. Inicialmente podia-se configurar o toque monofônico, os quais são formados apenas por bip de mesmo tom, configurados para ter o ritmo da música, e também as figuras monocromáticas que são quase desconhecidas. Com a nova geração de aparelhos, principalmente nos lançamentos do sistema GSM, veio então além de toques polifônicos e em formato MP3 juntamente com imagens coloridas.
+As imagens coloridas podem ser de dois tipos distintos:
+
+Formato GIF; trate-se de um formato que só suporta 256 cores, nos aparelhos pioneiros, normalmente era usado esse formato;
+Formato JPG; formato amplamente difundiu graças as câmeras digitais este suporta até 16 milhões de cores e é usado em aparelhos mais avançados, e praticamente todos que possuem câmeras digitais integradas ao celular.Para personalizar o seu celular procure o portal da operadora na internet ou pelo próprio aparelho via WAP, porem lembre-se que WAP é cobrado mesmo para escolher o toque ou a imagem. Há também sites que distribuem gratuitamente conteúdo para aparelhos diversos, o qual fica mais barato ao usuário final já que não são protegidos por direitos autorias.
+
+
+== Formatos ==
+
+Telefones celulares podem apresentar vários formatos, primeiramente, se dividem em dois tipos de interação, os de teclado físico e de toque, os de teclado físico, podendo ser numérico (no padrão E.161) ou no padrão QWERTY, já os teclados de toque são gerados por software.
+O corpo pode utilizar uma ou duas peças, o formato de barra utiliza uma única peça achatada sendo o mais comum em smartphones, o formato tijolo se refere a celulares antigos e grossos, o flip possui uma aba que abre e fecha podendo ser vertical ou horizontal, o formato slide tem duas peças que deslizam também podendo ser vertical ou horizontal, o formato swivel utiliza duas peças que se movimentam de forma giratória, o formato taco utiliza uma tela no meio, com botões físicos dos dois lados, seno o formato utilizado pelo N-Gage.
+
+
+== Tipos de aparelhos ==
+Atualmente, costuma se classificar celulares em 3 categorias, dependendo da quantidade de recursos.
+
+
+=== Dumb phones ===
+Os dumb phones (em português "telefones burros") são os aparelhos considerados básicos, que utilizam apenas as funções de telefonia de voz e mensagens SMS, atualmente são raros de se encontrar.
+
+
+=== Feature phones ===
+
+Os features phones (telefones com recursos) seriam os celulares que, além das funções básicas, oferecem outros recursos como: tela colorida, possibilidade de músicas em MP3, rádio FM, entrada para fones de ouvido, visualização de imagens e vídeos, câmera fotográfica (geralmente apenas uma, na parte traseira), e que também pode fazer filmagens, conexões com outros aparelhos via Bluetooth além de acesso a serviços básicos de internet, principalmente por protocolos WAP e variações de teclados físico no formato alfanumérico E.161 ou QWERTY.
+
+
+=== Smartphones ===
+
+Os smartphones (do inglês "smart", esperto, "phone", telefone) são aparelhos, cujo foco não está na telefonia, e sim em aplicações, foram popularizados principalmente pela BlackBerry e Nokia, sendo também sistemas como Palm e Microsoft Pocket PC/Windows Mobile também tendo se tornado populares. Em 2007 o iPhone redefiniu os smartphones com um modelo com tela multitoque, acelerômetro e com teclado via software.
+Sua principal característica é a possibilidade de instalar programas que utilizam os recursos disponíveis no aparelho. Alguns exemplos são dicionários, tradutores, jogos e clientes de e-mail. Os sistemas operativos mais utilizados são o Windows Phone, iOS e Android.O uso massivo de smartphones permitiu o desenvolvimento de novas tecnologias de internet móvel em alta velocidade, tornando possível ostreaming de vídeos em tempo real, e a videoconferência com a ajuda de novos equipamentos como câmera frontal próxima ao visor.
+Graças à demanda por aplicativos, o tamanho médio dos smartphones aumentou comparado aos feature phones. Hoje os celulares tem telas com até pouco mais de 5 polegadas sensíveis ao toque. Telas que, em 2003, tinham 4 mil cores, agora possuem mais de 16 milhões.
+
+
+== Clonagem ==
+A clonagem de celulares era um problema que afligia muitos dos usuários da telefonia móvel (hoje problema diminuído com a adesão da tecnologia GSM). Acontece quando um criminoso usa uma linha de um cliente de alguma operadora para fazer ou receber ligações. Além de perder sua privacidade, o usuário recebe uma conta telefônica bem mais alta do que o devido, devido ao uso clonado de seu número em algum outro aparelho. Também passa a receber ligações de pessoas estranhas. A clonagem é usada no Brasil por quadrilhas de crime organizado para se comunicar, burlando a vigilância da polícia.
+Estão vulneráveis à clonagem os telefones que entram em áreas onde o sinal é analógico, e por isso, os telefones de operadoras GSM, tais como a TIM, a Oi, Claro e Vivo são considerados mais seguros. Estão expostos à clonagem os celulares CDMA, como os da Vivo antigos (antes de 2006), que operavam em sistema analógico em boa parte do país.
+Quem tem aparelhos CDMA ou TDMA pode reduzir os riscos da clonagem evitando ligar o telefone nas proximidades de aeroportos ou em locais em que o sinal para o seu aparelho não é digital. Também é possível configurar alguns modelos CDMA para usarem somente o sistema digital.
+Com um "scanner" de frequência ou um receptor de rádio de alta frequência, o criminoso consegue identificar o número da linha e o número de série do aparelho, usando-os no clone. Os aeroportos são lugares visados para este tipo de atuação por criminosos por serem locais de grande movimentação de executivos. Nestas zonas as quadrilhas instalam suas vans com antenas clandestinas para captar os códigos emitidos pelos celulares dos viajantes. Um técnico em celulares inescrupuloso ou qualquer pessoa com conhecimentos de programação de celulares também tem acesso a esses números ao manipular o aparelho.
+
+
+== Saúde ==
+
+Os aparelhos celulares, assim como outros dispositivos eletrônicos como rádio, televisão, alguns controles remotos, redes sem fio de computadores, etc utilizam ondas eletromagnéticas de rádio frequência (RF) para comunicação. Essas ondas eletromagnéticas são consideradas como radiações não ionizantes, ou seja, consideradas seguras nas potências utilizadas nos dispositivos celulares cujo funcionamento atende às recomendações da International Commission on Non-Ionizing Radiation Protection (ICNIRP) provisoriamente adotadas pela Organização Mundial de Saúde (OMS). No entanto, a American Academy of Pediatrics (AAP) apoia a revisão destes padrões de segurança, definidos em 1996 com base em testes de segurança com adultos, sem considerar crianças e gestantes. Governos de diversos países estão adotando o Princípio da precaução  e aprovando leis que limitam o uso destas tecnologias.  Em 2011, o Conselho da Europa examinou provas de que estas tecnologias têm efeitos "potencialmente nocivos" para os seres humanos, e concluiu que é necessária uma ação imediata para proteger as crianças.  Para o Conselho da Europa esta ação é crucial para evitar a repetição dos erros cometidos quando autoridades de saúde pública foram lentos em reconhecer os perigos do amianto, do fumo de tabaco e do chumbo na gasolina. Países que adotaram o Princípio de precaução  e aprovaram leis que limitam o uso de Wi-Fi e celulares: EUA, Canadá, Alemanha, Itália, França, Bélgica, Espanha, Índia, entre outros. Diversos estudos têm sido conduzidos para se determinar possíveis riscos de longo prazo à saúde humana pelo uso aparelhos celulares: a Organização Mundial da Saúde divulgou, em 2009, resultados preliminares de um estudo que sugere que o uso de aparelhos celulares pode estar relacionado a uma predisposição maior a diversos tipos de cânceres; em contrapartida,  estudo da Sociedade Dinamarquesa do Câncer, publicado em 2009, realizado com base nos dados colhidos no período de 1974 a 2003, abrangendo praticamente todos os habitantes da Escandinávia descarta a ligação de cânceres cerebrais ao uso de celulares Em 2016, a National Toxicology Program  dos Estados Unidos, publicou estudo realizado ao longo de dois anos, cujas conclusões parciais e ainda sem revisão de pares, concluiu que as lesões hiperplásicas e neoplasias das células gliais observadas em ratos machos são provavelmente resultado da exposição a radiação por radiofrequências GSM e CDMA, aumentando a confiança na associação entre a exposição a radiofrequências e lesões neoplásicas no coração e no cérebro. No entanto, não foram observados efeitos significativos no coração ou cérebro dos ratos fêmeas.
+A parte da divergência entre os estudos sobre os riscos à saúde do uso de celulares muitos especialistas e entidades de saúde oficiais têm recomendado a utilização limitada destes dispositivos assim como ao recurso do sistema de mãos-livres (viva-voz). Existe, contudo, um grande consenso sobre os riscos de acidentes provocados pelo uso de celulares: o uso desses dispositivos ao se dirigir um veículo automotor ou mesmo ao se caminhar aumentam significativamente o risco de acidentes através da distração provocada ao se conversar através do celular.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==

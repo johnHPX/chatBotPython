@@ -1,0 +1,14 @@
+Habilitação das cores(somente windows):
+
+reg add HKEY_CURRENT_USER\Console /v VirtualTerminalLevel /t REG_DWORD /d 0x00000001 /f
+
+Bibliotecas para instalar:
+
+pip install Wikipedia
+pip install Google
+pip install selenium
+pip install webdrive_manager
+pip install psutil
+pip install pywhatkit
+pip install pygame
+pip install pyttsx3
